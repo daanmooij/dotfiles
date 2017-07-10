@@ -1,0 +1,11 @@
+[user]
+	name = Daan Mooij
+	email = daanmooij@gmail.com
+
+[core]
+	editor = vim
+
+[color "status"]
+	added = yellow
+	changed = green
+	untracked = cyan
