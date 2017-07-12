@@ -2,6 +2,9 @@
 	name = Daan Mooij
 	email = daanmooij@gmail.com
 
+[credential]
+	helper = osxkeychain
+
 [core]
 	editor = vim
 
