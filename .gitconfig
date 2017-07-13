@@ -8,6 +8,9 @@
 [core]
 	editor = vim
 
+[color]
+	ui = auto
+
 [color "status"]
 	added = yellow
 	changed = green
