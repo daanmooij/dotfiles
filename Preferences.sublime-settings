@@ -1,0 +1,25 @@
+{
+	"bold_folder_labels": true,
+	"caret_style": "wide",
+	"color_scheme": "Packages/ayu/ayu-dark.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"font_face": "Fira Code Retina",
+	"font_size": 14,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"rulers":
+	[
+		80,
+		120
+	],
+	"tab_size": 4,
+	"theme": "ayu-mirage.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space": true
+}
