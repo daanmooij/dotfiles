@@ -9,7 +9,10 @@
 		"ayu",
 		"Babel",
 		"BracketHighlighter",
+		"Emmet",
+		"Git",
 		"DocBlockr",
+		"Laravel Blade Highlighter",
 		"Package Control",
 		"PHP Companion",
 		"PHP Getters and Setters"
