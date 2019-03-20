@@ -4,5 +4,8 @@
 
 add sublime-settings files to:
 
-```/User/{user}/Library/Application Support/Sublime Text 3/Packages/User```
+```/User/{username}/Library/Application Support/Sublime Text 3/Packages/User/```
 
+add settings.json file to:
+
+```/User/{username}/Library/Application Support/Code/User/```
